@@ -28,6 +28,6 @@
   <a target="_blank"><img src="https://img.shields.io/badge/CarlosEdu-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a target="_blank"><img src="https://img.shields.io/badge/SouEuCarlos-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Carlosedu2001/Carlosedu2001/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/carlosedu2001/carlosedu2001/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
