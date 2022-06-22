@@ -1,4 +1,5 @@
 ### Aoba 👋
+### Me chamo Carlos Eduardo Lacerda
 
 - 📖 Atualmente cursando Engenharia da Computação na Universidade de Sorocaba (UNISO)
 - 🎵 A todo momento ouvindo uma boa música
