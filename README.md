@@ -3,7 +3,7 @@
 
 - 📖 Atualmente cursando Engenharia da Computação na Universidade de Sorocaba (UNISO)
 - 🎵 A todo momento ouvindo uma boa música
-- ⚡ Como hobbies tenho: tocar piano/teclado 🎹, jogar com a galera 🕹️ e assitir filmes/séries 🍿
+- ⚡ Como hobbies tenho: tocar piano/teclado 🎹, jogar com a galera 🕹️, assitir filmes/séries 🍿 e resolver puzzles/cubos mágicos 🎲
 - 💻 Constantemente à procura de novos desafios e novas oportunidades
 
 <div align="center">
